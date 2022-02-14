@@ -19,3 +19,4 @@ Multiple Filter Table
 ![Multi_Filter_Table](https://github.com/RBarbush84/UFOs/blob/main/Resources/Multi_Filtered_UFO_table.png)
 
 ## Summary
+A drawback to the existing dataset is that it is very limited. It only includes sightings in the United States, and they are only from January 1, 2010-January 13, 2010. One way to improve the site would be to collect more data from a wider range of locations and dates to provide more UFO sightings for users to find a research. Another improvement 
