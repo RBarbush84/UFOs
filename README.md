@@ -9,4 +9,5 @@ The final website allows users to filter the UFO sighting data across five diffe
 ![UFO Sightings Table](https://github.com/RBarbush84/UFOs/blob/main/Resources/UFO_table.png)
 
 - The table has UFO sighting data with the information showing the Date, City, State, Country, Shape, Duration and other details about the sighting.
-- 
+- A user can navigate the site and filter the data by clicking into one of the filter boxes on the left side of the page and filter by a text value that exists in the corresponding column. If there is not a matching value in that column, it will return a blank table.
+- In order to return to the original, unfiltered table, the user can either click the 'UFO Sightings' in the upper left corner of the web page, or clear out all filter fields and press 'Enter.'
